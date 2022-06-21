@@ -1,6 +1,6 @@
 -- Creator: illremember#3799
 
--- Credits to infinite yield, harkinian, dex creators
+-- Credits to infinite yield, harkinian, dex creators 
 
 prefix = ";"
 wait(0.3)
