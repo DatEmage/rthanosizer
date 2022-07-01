@@ -1,3 +1,5 @@
+## The end...
+Rtahnosizer development has stopped and i started to work on a Roblox Executor
 ## About
 RThanosizer uses scripts and hubs which are not owned by me, all credits go to real owners
 ## Submission
